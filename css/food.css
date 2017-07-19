@@ -1,0 +1,159 @@
+.content{
+	background-color: #fff;
+	font-family: 微软雅黑;
+	color: #000;
+	font-size: 15px;
+	width: 80%;
+}
+.fa{
+	color: green;
+}
+.inf{
+	width: 100%;
+	height: 200px;
+	font-weight: bold;
+	margin-bottom: 60px;
+	padding-bottom: 30px;
+	border-bottom: 3px solid #EAEAEA;
+}
+.myinf{
+	float: left;
+	margin-top: 40px;
+	margin-left: 10%;
+	width: 43%;
+}
+.pic{
+	float: left;
+	margin-top: 20px;
+	width: 8%;
+	height: 150px;
+}
+.pic img{
+	width: 100%;
+	height: 150px;
+}
+.l1,.l2,.l3{
+	height: 20px;
+	margin-bottom: 5px;
+}
+.birt{
+	float: left;
+	width: 30%;
+	height: 20px;
+}
+.name{
+	float: left;
+	width: 30%;
+	height: 20px;
+}
+.sex,.educ,.mast,.poli,.sch,.engl{
+	float: left;
+	height: 20px;
+	width: 30%;
+}
+.l4{
+	height: 50px;
+	margin-top: 40px;
+}
+.l4 i{
+	font-size: 20px;
+}
+.pho,.wec,.emi{
+	float: left;
+	width: 30%;
+	height: 30px;
+}
+.mysel{
+	margin-left: 10%;
+	width: 70%;
+	height: 210px;
+}
+.edu{
+	margin-left: 10%;
+	width: 70%;
+	height: 80px;
+}
+.ed{
+	float: left;
+	margin-left: 2%;
+	margin-top: 5px;
+	width: 15%;
+	height: 50px;
+	text-align: center;
+	font-size: 15px;
+	line-height: 22px;
+}
+.schn1{
+	margin-left: 23px;
+}
+.schn2{
+	margin-left: 35px;
+}
+.schn3{
+	margin-left: 43px;
+}
+.schn4{
+	margin-left: 40px;
+}
+.rew{
+	margin-left: 10%;
+	width: 70%;
+}
+.rewd{
+	margin-left: 5%;
+}
+.work{
+	margin-left: 10%;
+}
+.ttl{
+	width: 80px;
+	height: 30px;
+	background-color: #71C671;
+	color: #fff;
+	text-align: center;
+	line-height: 30px;
+	font-weight: bold;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+.adv{
+	margin-left: 2%;
+	float: left;
+	width: 5%;
+	height: 80px;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 30px;
+}
+.det{
+	float: left;
+	width: 90%;
+	height: 80px;
+	font-size: 16px;
+}
+.deti{
+	font-weight: normal;
+	line-height: 25px;
+}
+.tb{
+	margin-left: 5%;
+	width: 70%;
+	margin-bottom: 20px;
+}
+.ll1{
+	width: 100%;
+	height: 25px;
+	line-height: 22px;
+}
+.time,.wor,.job{
+	width: 20%;
+	float: left;
+	font-size: 16px;
+	font-weight: bold;
+}
+.duty{
+	height: 25px;
+	font-size: 15px;
+	line-height: 23px;
+	margin-left: -2%;
+}
